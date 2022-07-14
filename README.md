@@ -1,3 +1,3 @@
 #Javascript for beginners
 
-BlackjackGame code
+Calculator code
